@@ -1,0 +1,20 @@
+Successfully inserted 20 applications into the system. 
+
+Updated details of Deepak Prasad. Phone Number, Application Status has been changed 
+
+---------- Member reference by 11129 -----------
+Sandhya Raman / 9213231311 / Verified
+Malign Raman / 9213231311 / Verified
+Vishnu Shah / 9912356788 / Approved
+Vinay Shah / 9912356788 / Approved
+Sudhir Raman / 9213231311 / Verified
+Bartha Shah / 9912356788 / Approved
+Sadhu Raman / 9213231311 / Verified
+Parthia Shah / 9912356788 / Approved
+------------------------------------------------
+
+-------------- Application Status --------------
+Applied:11
+Verified:5
+Approved:4
+------------------------------------------------
